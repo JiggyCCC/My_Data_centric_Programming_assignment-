@@ -1,5 +1,5 @@
 # My_Data_centric_Programming_assignment
-# Questions for the Data
+# Questions for My_Data
 1. Does workout duration affect how much my mood improves after exercising? 
 
 1. Does consuming an energy drink affect my workout duration and mood improvement? 
