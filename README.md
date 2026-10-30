@@ -1,4 +1,13 @@
 # My_Data_centric_Programming_assignment
+# Questions for the Data
+1. Does workout duration affect how much my mood improves after exercising? 
+
+1. Does consuming an energy drink affect my workout duration and mood improvement? 
+
+1. Does the time i start my workout influence my workout duration and mood improvement? 
+
+
+
 ## Data Dictionary 
 Some of this data is collected by using two apps, Hevy and MyFitnessPal. Hevy allows me to track my workout whilst MyFitnessPal allows me to track my calories. 
 
