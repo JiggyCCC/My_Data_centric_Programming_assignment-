@@ -22,20 +22,18 @@ Some of this data is collected by using two apps, Hevy and MyFitnessPal. Hevy al
 | Calories_consumed | Numeric | Integer | How many calories i have consumed that day | 
 | Energy Drink(0-1)| Numeric | Boolean | Did i have an energy drink before the workout | 
 
-
 ## Hevy Workout Data
 
-<img src="images/Hevy1.png" width="400">
-
-<img src="images/Hevy2.png" width="400">
-
-<img src="images/Hevy3.png" width="400">
-
+<p align="center">
+  <img src="images/Hevy1.png" width="250">
+  <img src="images/Hevy2.png" width="250">
+  <img src="images/Hevy3.png" width="250">
+</p>
 
 ## MyFitnessPal Nutrition Data
 
-<img src="images/Fitnesspal1.png" width="400">
-
-<img src="images/Fitnesspal2.png" width="400">
-
-<img src="images/Fitnesspal3.png" width="400">
+<p align="center">
+  <img src="images/Fitnesspal1.png" width="250">
+  <img src="images/Fitnesspal2.png" width="250">
+  <img src="images/Fitnesspal3.png" width="250">
+</p>
