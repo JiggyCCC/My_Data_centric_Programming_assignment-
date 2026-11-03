@@ -25,14 +25,14 @@ Some of this data is collected by using two apps, Hevy and MyFitnessPal. Hevy al
 
 ## Photos of Collecting Data
 
-![Hevy](IMG_0561.png)
+![Hevy](Hevy1.png)
 
-![Hevy](IMG_0560.png)
+![Hevy](Hevy2.png)
 
-![Hevy](IMG_0559.png)
+![Hevy](Hevy3.png)
 
-![MyFitnessPal](IMG_0556.png)
+![MyFitnessPal](Fitnesspal1.png)
 
-![MyFitnessPal](IMG_0558.png)
+![MyFitnessPal](Fitnesspal2.png)
 
-![MyFitnessPal](IMG_0557.png)
+![MyFitnessPal](Fitnesspal3.png)
