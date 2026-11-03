@@ -21,3 +21,18 @@ Some of this data is collected by using two apps, Hevy and MyFitnessPal. Hevy al
 | mood_after(0-5) | Categorical | Integer | What mood i was in after going to the gym |
 | Calories_consumed | Numeric | Integer | How many calories i have consumed that day | 
 | Energy Drink(0-1)| Numeric | Boolean | Did i have an energy drink before the workout | 
+
+
+## Photos of Collecting Data
+
+![Hevy](IMG_0561.png)
+
+![Hevy](IMG_0560.png)
+
+![Hevy](IMG_0559.png)
+
+![MyFitnessPal](IMG_0556.png)
+
+![MyFitnessPal](IMG_0558.png)
+
+![MyFitnessPal](IMG_0557.png)
