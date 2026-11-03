@@ -23,16 +23,19 @@ Some of this data is collected by using two apps, Hevy and MyFitnessPal. Hevy al
 | Energy Drink(0-1)| Numeric | Boolean | Did i have an energy drink before the workout | 
 
 
-## Photos of Collecting Data
+## Hevy Workout Data
 
-![Hevy](Hevy1.png)
+<img src="images/Hevy1.png" width="400">
 
-![Hevy](Hevy2.png)
+<img src="images/Hevy2.png" width="400">
 
-![Hevy](Hevy3.png)
+<img src="images/Hevy3.png" width="400">
 
-![MyFitnessPal](Fitnesspal1.png)
 
-![MyFitnessPal](Fitnesspal2.png)
+## MyFitnessPal Nutrition Data
 
-![MyFitnessPal](Fitnesspal3.png)
+<img src="images/Fitnesspal1.png" width="400">
+
+<img src="images/Fitnesspal2.png" width="400">
+
+<img src="images/Fitnesspal3.png" width="400">
