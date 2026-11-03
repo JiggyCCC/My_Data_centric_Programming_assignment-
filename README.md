@@ -34,6 +34,6 @@ Some of this data is collected by using two apps, Hevy and MyFitnessPal. Hevy al
 
 <p align="center">
   <img src="images/Fitnesspal1.png" width="250">
-  <img src="images/Fitnesspal2.png" width="250">
+  <img src="images/FitnessPal2.png" width="250">
   <img src="images/Fitnesspal3.png" width="250">
 </p>
