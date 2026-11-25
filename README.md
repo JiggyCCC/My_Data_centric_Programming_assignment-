@@ -56,3 +56,33 @@ Matplotlib is used to to display graphs that help visualise results. In this cas
 The program also allows users to use an interactive menu which they can explore my data with. 
 
 ## Findings
+### Matplotlib findings: 
+
+-- I found that the average workout duration is increased when an energy drink is consumed and mood is improved when an enrgy drink is not consumed. 
+
+-- I found that mood improvement is more likely if the workout takes under an hour. 
+
+-- The earlier I start my workout leads to a longer workout. More than likely because i was under any time pressure. Whereas later in the day the workout is shorter. 
+
+-- I aslo found that most of my workouts take between 50 and 60 minutes.
+
+### sqlite3 findings: 
+Question 1: Does workout duration affect how much my mood improves after exercising? 
+Mood improvement seems to always imrpove by duration, except for a few where the improvement stays the same 
+
+question 2: Does consuming an energy drink affect my workout duration and mood improvement?
+I found that consuning an energy generaly improves the average duration of my workouts but it has a lower average for mood improvement compared to consumung no energy drink. 
+
+Question 3: Does the time i start my workout influence my workout duration and mood improvement?
+Similar to the matplotlib findings, sqlite3 queries also show a longer workout duration if the workout is started earlier in the date. Other than that, i found that mood improvement is more likely towards later in the day.
+
+
+
+
+
+
+
+
+
+
+
