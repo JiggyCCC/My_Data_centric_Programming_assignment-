@@ -118,15 +118,21 @@ def graph2():
     df['Mood_Improvement'] = (df['Mood_after(0-5)'] - df['Mood_Before(1-5)'])
 
     avg = df.groupby('EnergyDrink')[['Duration_Minutes', 'Mood_Improvement']].mean()
-    avg.plot(kind='bar')
-    plt.xlabel("Energy Drink (0=no, 1 =yes)")
-    plt.ylabel("Average Value")
-    plt.title("Energy Drinks vs Workout Perfromance")
-    plt.legend(["Workout Duration", "Mood Improvement"])
-    plt.xticks(rotation=0)
+
+    fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(12,5))
+    ax1.bar(avg.index, avg['Duration_Minutes'])
+    ax1.set_title("Average Workout Duration")
+    ax1.set_xlabel("Energy Drink (0 = No, 1 = Yes)")
+    ax1.set_ylabel("Duration (Minutes)")
+
+    ax2.bar(avg.index, avg['Mood_Improvement'])
+    ax2.set_title("Average Mood Improvement")
+    ax2.set_xlabel("Energy Drink (0 = No, 1 = Yes)")
+    ax2.set_ylabel("Mood Improvement")
+
     plt.tight_layout()
     plt.show()
-
+    
     graph_menu()
 
 def graph3():
