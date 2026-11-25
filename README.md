@@ -71,10 +71,26 @@ Question 1: Does workout duration affect how much my mood improves after exercis
 Mood improvement seems to always imrpove by duration, except for a few where the improvement stays the same 
 
 question 2: Does consuming an energy drink affect my workout duration and mood improvement?
-I found that consuning an energy generaly improves the average duration of my workouts but it has a lower average for mood improvement compared to consumung no energy drink. 
+I found that consuning an energy drink generaly improves the average duration of my workouts but it has a lower average for mood improvement compared to consumung no energy drink. 
 
 Question 3: Does the time i start my workout influence my workout duration and mood improvement?
 Similar to the matplotlib findings, sqlite3 queries also show a longer workout duration if the workout is started earlier in the date. Other than that, i found that mood improvement is more likely towards later in the day.
+
+# List of files in the project
+
+| Files | Source |
+|-----------|-----------|
+| main.py | Self written |
+| My_Data.csv | Self collected data and self made table |
+| gym.db | The database i created using sqlite3 and pandas to read in the CSV file |
+
+# References
+* https://www.youtube.com/watch?v=p3Vui6q_wPw
+* https://www.youtube.com/watch?v=UZIhVmkrAEs
+* https://www.w3schools.com/python/default.asp
+* https://github.com/skooter500/dcp26
+* https://github.com/skooter500/dcp26-assignment/blob/main/README.MD?plain=1 
+
 
 
 
