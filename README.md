@@ -37,3 +37,22 @@ Some of this data is collected by using two apps, Hevy and MyFitnessPal. Hevy al
   <img src="images/FitnessPal2.png" width="250">
   <img src="images/Fitnesspal3.png" width="250">
 </p>
+
+## Description of my project 
+
+This project used my own collected data about my gym workouts. With this data, I used python libraries such as pandas, matplotlib and sqlite3 to analyse, clean, filter, create graphs, and run SQL queries. My project allows users to interact with my data and add their own data to my database
+
+## Instructions
+
+Using the files "main.py" and "My_Data.csv" under the folder "dcp26project" and running the "main.py" in VScode, you will be able to see my menu interface that allows you to interact, analyse my data and add your own workout.
+
+## How it works: 
+My_Data.csv is imported into a database called gym.db using sqlite3. Using sqlite3's query tools I am able to investigate relationships between different attributes in my table "gym_statistics" and allow users to insert their own workouts.
+
+Pandas is used to retrieve, filter and analyse the entries and calculate the attribute statistics. 
+
+Matplotlib is used to to display graphs that help visualise results. In this case I use scatter plots, histograms and bar charts. 
+
+The program also allows users to use an interactive menu which they can explore my data with. 
+
+## Findings
